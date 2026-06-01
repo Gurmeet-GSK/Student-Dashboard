@@ -1,15 +1,15 @@
 'use client'
 
-import { motion } from 'framer-motion'
+import { motion, Variants } from 'framer-motion'
 import CourseCard from './CourseCard'
 import { Course } from '../lib/supabase'
 
-const containerVariants = {
+const containerVariants: Variants = {
   hidden:  {},
   visible: { transition: { staggerChildren: 0.1 } }
 }
 
-const cardVariants = {
+const cardVariants: Variants = {
   hidden:  { opacity: 0, y: 24 },
   visible: {
     opacity: 1,
