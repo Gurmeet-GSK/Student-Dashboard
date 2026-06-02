@@ -2,8 +2,8 @@
 
 A futuristic, dark-themed student learning dashboard.
 
-**Live Demo:** [your-vercel-url.vercel.app](https://your-vercel-url.vercel.app)  
-**Repository:** [github.com/yourusername/learning-dashboard](https://github.com/yourusername/learning-dashboard)
+**Live Demo:** [student-dashboard-gilt-three.vercel.app/](https://student-dashboard-gilt-three.vercel.app/)  
+**Repository:** [github.com/Gurmeet-GSK/Student-Dashboard](https://github.com/Gurmeet-GSK/Student-Dashboard)
 
 ---
 
@@ -151,7 +151,7 @@ See `.env.example` for the required variable names.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/learning-dashboard.git
+git clone https://github.com/Gurmeet-GSK/Student-Dashboard
 cd learning-dashboard
 
 # 2. Install dependencies
